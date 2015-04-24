@@ -1,2 +1,3 @@
 # sandbox
-test only
+テストコードのみ
+
